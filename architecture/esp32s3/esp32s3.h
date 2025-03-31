@@ -23,8 +23,8 @@
  
  ************************************************************************/
 
-#ifndef faust_esp32_h_
-#define faust_esp32_h_
+#ifndef faust_esp32s3_h_
+#define faust_esp32s3_h_
 
 #include <string>
 #include "freertos/FreeRTOS.h"
